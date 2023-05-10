@@ -3,11 +3,11 @@ In this project I created a ExpressJs server. I used ExpressJs JSX view engine, 
 
 Here is the structure of the server: 
 
-Home(/): links to /managers and to /departments
-Managers: 
+1. Home(/): links to /managers and to /departments
+2. Managers: 
     - /managers   
     - /managers/:managerID
-Depatments: 
+3. Depatments: 
     - /departments  
     - /departments/:departmentID
 
